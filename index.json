@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-18T00:00:00.000Z",
+  "packages": [
+    {
+      "id": "classic-hymns-instrumental",
+      "type": "playlist",
+      "path": "Classic-Hymns-Instrumental.playlist.zip",
+      "name": "Classic Hymns Instrumental",
+      "description": "Public-domain instrumental piano recordings of five classic hymns: Amazing Grace, Be Thou My Vision, It Is Well with My Soul, How Great Thou Art, and Blessed Assurance. Released to the public domain by AudioTreasure.com via Public Domain Audiobibles.",
+      "author": "Public Domain Audiobibles",
+      "category": "Instrumental",
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "audio",
+        "instrumental",
+        "hymns",
+        "public-domain",
+        "piano",
+        "worship"
+      ],
+      "version": "1.0.0"
+    }
+  ]
+}
