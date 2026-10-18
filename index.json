@@ -7,8 +7,8 @@
       "type": "playlist",
       "path": "Classic-Hymns-Instrumental.playlist.zip",
       "name": "Classic Hymns Instrumental",
-      "description": "Public-domain instrumental piano recordings of five classic hymns: Amazing Grace, Be Thou My Vision, It Is Well with My Soul, How Great Thou Art, and Blessed Assurance. Released to the public domain by AudioTreasure.com via Public Domain Audiobibles.",
-      "author": "Public Domain Audiobibles",
+      "description": "Public-domain instrumental recordings of five classic hymns: There is a Fountain, Jesus Paid it All, O Worship the King, I Need Thee Every Hour, and Holy, Holy, Holy. Released to the public domain by AudioTreasure.com in 2005.",
+      "author": "AudioTreasure.com",
       "category": "Instrumental",
       "traditions": [
         "General"
@@ -18,7 +18,6 @@
         "instrumental",
         "hymns",
         "public-domain",
-        "piano",
         "worship"
       ],
       "version": "1.0.0"
