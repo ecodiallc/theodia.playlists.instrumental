@@ -2,7 +2,7 @@
 
 | ID | Name |
 | -- | ---- |
-| `classic-hymns-instrumental` | Classic Hymns Instrumental |
+| `classic-hymns-instrumental` | Classic Hymns Instrumental (35 tracks) |
 
 ## Sources
 

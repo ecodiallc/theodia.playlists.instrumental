@@ -7,7 +7,7 @@
       "type": "playlist",
       "path": "Classic-Hymns-Instrumental.playlist.zip",
       "name": "Classic Hymns Instrumental",
-      "description": "Public-domain instrumental recordings of five classic hymns: There is a Fountain, Jesus Paid it All, O Worship the King, I Need Thee Every Hour, and Holy, Holy, Holy. Released to the public domain by AudioTreasure.com in 2005.",
+      "description": "Public-domain instrumental recordings of 35 classic hymns, including Abide with Me, Holy Holy Holy, Silent Night, Joy to the World, and O Worship the King. Released to the public domain by AudioTreasure.com in 2005.",
       "author": "AudioTreasure.com",
       "category": "Instrumental",
       "traditions": [
@@ -20,7 +20,7 @@
         "public-domain",
         "worship"
       ],
-      "version": "1.0.0"
+      "version": "1.1.0"
     }
   ]
 }
