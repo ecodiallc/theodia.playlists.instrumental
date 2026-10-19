@@ -21,6 +21,26 @@
         "worship"
       ],
       "version": "1.1.0"
+    },
+    {
+      "id": "christ-our-life-instrumental-hymns",
+      "type": "playlist",
+      "path": "Christ-Our-Life-Instrumental-Hymns.playlist.zip",
+      "name": "Christ Our Life Instrumental Hymns",
+      "description": "A collection of 14 hymns arranged for piano, violin, cello, and saxophone, offered free by Christ Our Life (christourlife.ca) for worship, prayer, reflection, and personal devotion.",
+      "author": "Christ Our Life (christourlife.ca)",
+      "category": "Instrumental",
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "audio",
+        "instrumental",
+        "hymns",
+        "free",
+        "worship"
+      ],
+      "version": "1.0.0"
     }
   ]
 }
